@@ -20,7 +20,7 @@
 <template>
   <div>
     <div>
-      <img id="banner" src="banner2.png">
+      <img id="banner" src="~/assets/banner2.png">
     </div>
 
     <div class="introduction">
